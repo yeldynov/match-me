@@ -13,7 +13,7 @@ export default function Home() {
         variant='bordered'
         startContent={<GoSmiley size={20} />}
       >
-        Click me!
+        Click me!!!
       </Button>
     </div>
   )
